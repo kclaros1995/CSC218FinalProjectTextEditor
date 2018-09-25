@@ -1,0 +1,12 @@
+100 words:
+	One Loop: 285448
+	Three Loops: 423845
+1000 words:
+	One Loop: 743164
+	Three Loops: 1433887
+10000 words:
+	One Loop: 3711574
+	Three Loops: 9588145
+100000 words:
+	One Loop: 28735062
+	Three Loops: 54199046

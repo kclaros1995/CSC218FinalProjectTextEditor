@@ -1,0 +1,11 @@
+For the One Loop:
+    100 words:  O(n)
+   1000 words: O(n)
+  10000 words: O(n)
+ 100000 words:  O(n)
+ 
+ for the three loops:
+  	100 words:  O(n)
+   1000 words: O(n)
+  10000 words: O(n)
+ 100000 words: O(n)
