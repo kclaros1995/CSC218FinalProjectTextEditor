@@ -3,8 +3,6 @@ package View;
 import javafx.scene.control.Menu;
 import javafx.scene.control.MenuBar;
 import javafx.scene.control.MenuItem;
-import javafx.scene.control.TextArea;
-import javafx.scene.layout.HBox;
 public class MenuBarPane {
 	private MenuBar menuBar;
 	

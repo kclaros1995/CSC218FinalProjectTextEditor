@@ -1,0 +1,12 @@
+.root{
+	
+    -fx-font-size: 12pt;
+    -fx-font-family: "Times New Roman";
+    -fx-base: #999999;
+	-fx-background:  #004b66;
+	 -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+		
+    
+
+}

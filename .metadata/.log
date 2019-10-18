@@ -1,0 +1,29 @@
+!SESSION 2019-10-17 22:55:58.917 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/kevinclaros/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/kevinclaros/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-10-17 22:56:37.336
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-10-17 22:56:37.360
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-10-17 22:56:50.366
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1
+!SESSION 2019-10-17 23:00:41.368 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/kevinclaros/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/kevinclaros/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-10-17 23:01:05.042
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-10-17 23:01:05.064
+!MESSAGE Using Apache MINA sshd as ssh client.
